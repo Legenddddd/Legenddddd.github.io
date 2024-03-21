@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Yongxin Wang (王永欣)"
+title                    : "Li-Jun Zhao (赵丽君)"
 title_separator          : "-"
-name                     : &name "Yongxin Wang"
+name                     : &name "Li-Jun Zhao"
 description              : &description "personal description"
-url                      : https://yxinwang.github.io
+url                      : https://legenddddd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yxinwang/yxinwang.github.io"
+repository               : "legenddddd/legenddddd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongxin Wang"
+  name             : "Li-Jun Zhao"
   avatar           : "yongxinwang.jpg"
   bio              : "Hi, welcome to my webpage!"
   #bio              "Associate Professor in School of Computer Science and Techonology, Shandong Jianzhu University"
