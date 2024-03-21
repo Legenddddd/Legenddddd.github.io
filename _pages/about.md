@@ -22,9 +22,8 @@ Research Interests
 
 Education
 =====
-* Ph.D. in School of Computer Science and Technology, Shandong University, 2017.09-2021.06
-* M.S. in School of Information Science and Engineering, Shandong Normal University, 2014.09-2017.06
-* B.S. in School of Information Science and Engineering, Shandong Normal University, 2010.09-2014.06
+* M.S. in School of Information Science and Engineering, Shandong University, 2014.09-Present
+* B.S. in School of Information Science and Engineering, Shandong University, 2010.09-2014.06
 
 Professional Experience
 =====
