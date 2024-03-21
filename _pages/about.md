@@ -29,9 +29,9 @@ Education
 
 Selected Publications
 ======
-1. **Yongxin Wang**, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "Multiple information embedded hashing for large-scale cross-modal retrieval," IEEE Trans. on Circuits and Systems for Video Technology, vol. 0, no, 0, pp. 0-0, 2024. 
-1. **Yongxin Wang**, Jie-Ru Tian, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "Label enhancement discrete cross-modal hashing method (In Chinese)," Journal of Software, vol. 34, no. 7, pp. 3438-3450, 2023. [[pdf](http://dx.doi.org/10.13328/j.cnki.jos.006536)]
-1. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "A high-dimensional sparse hashing framework for cross-modal retrieval," IEEE Trans. on Circuits and Systems for Video Technology, vol. 32, no. 12, pp. 8822-8836, 2022. [[pdf](https://doi.org/10.1109/TCSVT.2022.3195874)] [[code](https://github.com/yxinwang/HSCH-TCSVT)]
+1. **Li-Jun Zhao**, Zhen-Duo Chen, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu, "Bias Mitigating Few-Shot Class-Incremental Learning," CoRR abs/2402.00481, 2024.
+1.  Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+1. Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 
 Awards
