@@ -10,15 +10,15 @@ redirect_from:
 
 Personal Info
 ======
-I'm Li-Jun Zhao (赵丽君). I am currently a second year graduate student of Department of Software Engineering in Shandong University and a member of MIMA Group, led by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include machine learning, multimedia analysis, information retrieval, and computer vision.
+I'm Li-Jun Zhao (赵丽君). I am currently a second year graduate student of Department of Software Engineering in Shandong University and a member of MIMA Group, led by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include machine learning, fine-grained image analysis, and few-shot learning.
 
-[^_^]: # Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
+
 
 Research Interests
 ======
 1. Machine Learning
-2. Multimedia Analysis
-3. Computer Vision
+2. Fine-Grained Image Analysis
+3. Few-Shot Learning
 
 Education
 =====
