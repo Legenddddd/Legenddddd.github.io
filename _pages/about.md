@@ -10,7 +10,7 @@ redirect_from:
 
 Personal Info
 ======
-I'm Li-Jun Zhao (赵丽君). I am currently a second year graduate student of School of Software in Shandong University and a member of MIMA Group, led by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include machine learning, fine-grained image analysis, and few-shot learning.
+I'm Li-Jun Zhao (赵丽君). I am currently a second year graduate student of School of Software in Shandong University and a member of MIMA Group, led by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include machine learning, fine-grained image analysis, few-shot learning, and class incremental learning.
 
 
 
@@ -19,11 +19,12 @@ Research Interests
 1. Machine Learning
 2. Fine-Grained Image Analysis
 3. Few-Shot Learning
+4. class incremental learning
 
 Education
 =====
-* M.S. in School of Software, Shandong University, 2022.09-Present
-* B.S. in School of Software, Shandong University, 2018.09-2022.06
+* M.S. in Software engineering, School of Software, Shandong University, 2022.09-Present
+* B.S. in Software engineering, School of Software, Shandong University, 2018.09-2022.06
 
 
 
@@ -39,3 +40,4 @@ Awards
 * Outstanding Graduate of Shandong Province, 2022
 * National scholarship, 2021
 * First-class Scholarship of Shandong University, 2021
+* First-class Scholarship of Shandong University, 2020
