@@ -22,8 +22,8 @@ Research Interests
 
 Education
 =====
-* M.S. in School of Software, Shandong University, 2014.09-Present
-* B.S. in School of Software, Shandong University, 2010.09-2014.06
+* M.S. in School of Software, Shandong University, 2022.09-Present
+* B.S. in School of Software, Shandong University, 2018.09-2022.06
 
 
 
