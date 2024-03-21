@@ -19,11 +19,12 @@ Research Interests
 1. Machine Learning
 2. Fine-Grained Image Analysis
 3. Few-Shot Learning
-4. class incremental learning
+4. Class Incremental Learning
 
 Education
 =====
 * M.S. in Software engineering, School of Software, Shandong University, 2022.09-Present
+  Advisor: Prof. Xin-Shun Xu
 * B.S. in Software engineering, School of Software, Shandong University, 2018.09-2022.06
 
 
@@ -38,6 +39,6 @@ Selected Publications
 Awards
 ======
 * Outstanding Graduate of Shandong Province, 2022
-* National scholarship, 2021
 * First-class Scholarship of Shandong University, 2021
+* National scholarship, 2020
 * First-class Scholarship of Shandong University, 2020
