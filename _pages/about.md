@@ -31,7 +31,7 @@ Education
 
 Selected Publications
 ======
-1. **Li-Jun Zhao**, Zhen-Duo Chen, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. Bias Mitigating Few-Shot Class-Incremental Learning. CoRR abs/2402.00481, 2024.
+1. **Li-Jun Zhao**, Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, Xin-Shun Xu. Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification. IEEE Transactions on Image Processing, 2024.
 1. Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 1. Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
